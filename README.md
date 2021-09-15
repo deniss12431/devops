@@ -1,4 +1,4 @@
-## 18.6 Commit best practices
+### 18.6 Commit best practices
 
 Ideally, each commit should be minimal but complete:
 
