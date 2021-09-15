@@ -18,7 +18,7 @@ If you do this:
 
 - Project newcomers can more easily understand the history by reading the commit logs.
 
-- You can load and run your package at any point along its development history. This can be tremendously useful with tools like bisectr, which allow you to use binary search to quickly find the commit that introduced a bug.
+- You can load and run your package at any point along its development history. This can be tremendously useful with tools like [bisectr](https://github.com/wch/bisectr), which allow you to use binary search to quickly find the commit that introduced a bug.
 
 If you can figure out exactly when a bug was introduced, you can easily understand what you were doing (and why!).
 
