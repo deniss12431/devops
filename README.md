@@ -20,7 +20,7 @@ If you do this:
 
 - You can load and run your package at any point along its development history. This can be tremendously useful with tools like [bisectr](https://github.com/wch/bisectr), which allow you to use binary search to quickly find the commit that introduced a bug.
 
-If you can figure out exactly when a bug was introduced, you can easily understand what you were doing (and why!).
+- If you can figure out exactly when a bug was introduced, you can easily understand what you were doing (and why!).
 
 You might think that because no one else will ever look at your repo, that writing good commit messages is not worth the effort. But keep in mind that you have one very important collaborator: future-you! If you spend a little time now polishing your commit messages, future-you will thank you if and when they need to do a post-mortem on a bug.
 
