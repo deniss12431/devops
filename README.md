@@ -1,3 +1,4 @@
+## Heading level 2	
 18.6 Commit best practices
 Ideally, each commit should be minimal but complete:
 
