@@ -1,6 +1,7 @@
 ### 18.6 Commit best practices
 
-dfgfdg   fdgdfdf
+dfgfdg   
+fdgdfdf
 
 Ideally, each commit should be minimal but complete:
 
